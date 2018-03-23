@@ -1,0 +1,142 @@
+{
+	"applicationMain": [{
+			"componentName": "ProductGrid",
+			"data": {
+				"isEditorMode": false,
+				"heading": "Lorem ipsum dolorZ",
+				"products": [{
+						"title": "Lorem",
+						"introText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris viverra eros non ligula commodo vulputate. Sed ut elementum ex, sed pharetra lectus. Praesent porttitor efficitur lobortis.",
+						"image": {
+							"html": "<img src=\"/img/test.png\" alt=\"lorem\" />",
+							"altText": "lorem",
+							"url": "img/test.png"
+						},
+						"link": {
+							"html": "<a href=\"/lorem\" >Lorem</a>",
+							"url": "/lorem",
+							"text": "Lorem",
+							"isNewTab": true
+						}
+
+					},
+					{
+						"title": "Ipsum",
+						"image": {
+							"html": "<img src=\"/img/test.png\" alt=\"ipsum\" />",
+							"altText": "ipsum",
+							"url": "/img/test.png"
+						},
+						"link": {
+							"html": "<a href=\"/ipsum\" >Ipsum</a>",
+							"url": "/ipsum",
+							"text": "Ipsum",
+							"isNewTab": false
+						}
+
+					},
+					{
+						"title": "Dolor",
+						"introText": "Dolor description",
+						"image": {
+							"html": "<img src=\"/img/test.png\" alt=\"dolor\" />",
+							"altText": "dolor",
+							"url": "/img/test.png"
+						},
+						"link": {
+							"html": "<a href=\"/dolor\" >Dolro</a>",
+							"url": "/dolor",
+							"text": "Dolor",
+							"isNewTab": true
+						}
+
+					},
+					{
+						"title": "Bonorum",
+						"introText": "Bonorum description.",
+						"image": {
+							"html": "<img src=\"/img/tets.png\" alt=\"bonorum\" />",
+							"altText": "bonorum",
+							"url": "/img/test.png"
+						},
+						"link": {
+							"html": "<a href=\"/bonorum\" >Bonorum</a>",
+							"url": "/bonorum",
+							"text": "Bonorum",
+							"isNewTab": false
+						}
+
+					}
+				]
+
+			}
+		},
+		{
+			"componentName": "FeaturedContent",
+			"data": {
+				"isEditorMode": false,
+				"heading": "Lorem ipsum dolor sit amet",
+				"featuredItems": [{
+						"title": "Lorem ipsum",
+						"text": "Lorem ipsum Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+						"image": {
+							"html": "<img src=\"/img/test.png\" alt=\"\" />",
+							"altText": "",
+							"url": "/img/test.png"
+						},
+						"link": {
+							"html": "<a href=\"/lorem\" target=\"_blank\" >Lorem!</a>",
+							"url": "/lorem",
+							"text": "Lorem!",
+							"isNewTab": true
+						}
+					},
+					{
+						"title": "Finibus Bonorum",
+						"text": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis?",
+						"image": {
+							"html": "<img src=\"/img/test.png\" alt=\"\" />",
+							"altText": "",
+							"url": "/img/test.png"
+						},
+						"link": {
+							"html": "<a href=\"/finibus\" target=\"_blank\" >Finibus!</a>",
+							"url": "/finibus",
+							"text": "Finibus!",
+							"isNewTab": true
+						}
+					},
+					{
+						"title": "Sed ut persipiciatis",
+						"text": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+						"image": {
+							"html": "<img src=\"/img/test.png\" alt=\"\" />",
+							"altText": "",
+							"url": "/img/test.png"
+						},
+						"link": {
+							"html": "<a href=\"/sed\" target=\"_blank\" >Sed!</a>",
+							"url": "/sed",
+							"text": "Sed!",
+							"isNewTab": true
+						}
+					}
+				]
+			}
+		},
+		{
+			"componentName": "ContactUs",
+			"data": {
+				"isEditorMode": false,
+				"title": "Sed ut perspiciatis",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"link": {
+					"html": "<a href=\"/Nemo\" >Nemo</a>",
+					"url": "/nemo",
+					"text": "Nemo enim",
+					"isNewTab": false
+				}
+			}
+		}
+	]
+}
